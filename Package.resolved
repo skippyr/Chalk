@@ -1,0 +1,15 @@
+{
+  "originHash" : "2c9e7670f651ce4268d1b4e85e0a2da178679d15a278e0120fa42961c976fa89",
+  "pins" : [
+    {
+      "identity" : "rainbow",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/onevcat/Rainbow",
+      "state" : {
+        "revision" : "0c627a4f8a39ef37eadec1ceec02e4a7f55561ac",
+        "version" : "4.1.0"
+      }
+    }
+  ],
+  "version" : 3
+}
