@@ -44,7 +44,7 @@ cd Chalk;
 - Use `swift` to build the software:
 
 ```zsh
-swift build -c release
+swift build -c release;
 ```
 
 - Add `.build/release/chalk` to a directory in your system `PATH` environment variable.
